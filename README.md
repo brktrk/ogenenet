@@ -30,7 +30,7 @@ API'ye `POST` yöntemiyle istek yapılmalıdır. İsteklerde şu alanlar gönder
 #### cURL ile Örnek
 ```bash
 curl -X POST https://ogene.net/api/haber/index.php \
--H "Authorization: Bearer a40d318d6b6ba843749422827f23d491453d3253a5358dba70e25d73af9b0505" \
+-H "Authorization: Bearer YOUR_TOKEN" \
 -d "type=kategorihaberlistele&keys={\"KategoriID\":1}"
 ```
 
