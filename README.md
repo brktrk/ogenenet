@@ -112,9 +112,9 @@ Başarılı bir istek sonucunda, sunucudan JSON formatında yanıt alınır:
 |-----------------------|-----|
 | Gündem               | 1   |
 | Ekonomi              | 2   |
-| Dünya                | 8   |
 | Yurttan              | 5   |
 | Spor                 | 7   |
+| Dünya                | 8   |
 | Bülten               | 9   |
 | Şirket Haberleri     | 10  |
 
