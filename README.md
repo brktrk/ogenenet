@@ -9,7 +9,7 @@ Bu kılavuz, `https://ogene.net/api/haber/` adresindeki API'nin nasıl kullanıl
 API'ye yapılan her istekte aşağıdaki Bearer Token başlığını eklemeniz gereklidir:
 
 ```
-Authorization: Bearer a40d318d6b6ba843749422827f23d491453d3253a5358dba70e25d73af9b0505
+Authorization: Bearer YOUR_TOKEN
 ```
 
 Eğer token doğru değilse, sunucu 401 Unauthorized hatası döndürecektir.
